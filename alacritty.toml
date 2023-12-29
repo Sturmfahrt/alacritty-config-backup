@@ -1,0 +1,15 @@
+import = ["/home/max/.config/alacritty/themes/theme.toml"]
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "SauceCodePro Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.5
+
+[window.padding]
+x = 10
+y = 10
